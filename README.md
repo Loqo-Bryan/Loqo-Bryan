@@ -1,16 +1,42 @@
-## Hi there 👋
+ 
+# 👋 ¡Hola! Soy Bryan Andrade Castrillon
+ 
+  
+ 
+Desarrollo **aplicaciones web** y me interesan **la IA y todo lo que conlleva(sistemas de aprendizaje, programación de IA, big data, etc...)**. Ahora mismo:
+ 
+- 🚀 Construyendo: <https://laboonprojectlite.pages.dev/>
+ 
+- 📚 Aprendiendo: **Especialización en Inteligencia Artificial y Big Data**
+ 
+- 💬 Abierto a: colaborar, emprender proyectos, etc...
+ 
 
-<!--
-**Loqo-Bryan/Loqo-Bryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+ 
+## 🧰 Tecnologías que uso a diario
+ 
+Python · Django · Node.js · React · Docker · PostgreSQL
+ 
+  
 
-Here are some ideas to get you started:
+  
+ 
+## 📬 Contacto
+ 
+- Web/Portfolio: <https://personal-portfolio-eight-rosy.vercel.app/>
+ 
+- LinkedIn: <https://www.linkedin.com/in/bryan-andrade-castrillon-a454322a6/>
+ 
+- Email: loqo.business@gmail.com
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+  
+ 
+---
+ 
+  
+ 
+> _Última actualización: 04/11/2025_
+ 
