@@ -7,7 +7,7 @@ Desarrollo **aplicaciones web y multiplataforma**, emprendiendo grandes proyecto
  
 - 🚀 Construyendo: <https://nowaitagent.com/>
  
-- 🌐 Construyendo una empresa: **Nowaitagent**
+- 🌐 Construyendo una empresa: **Nowaitagent, Servicios de Inteligencia Artificial**
  
 - 💬 Abierto a: colaborar, emprender proyectos, etc...
  
