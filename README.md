@@ -3,11 +3,11 @@
  
   
  
-Desarrollo **aplicaciones web** y me interesan **la IA y todo lo que conlleva(sistemas de aprendizaje, programación de IA, big data, etc...)**. Ahora mismo:
+Desarrollo **aplicaciones web y multiplataforma**, emprendiendo grandes proyectos con **la IA y todo lo que conlleva(sistemas de aprendizaje, programación de IA, big data, etc...)**. Ahora mismo:
  
-- 🚀 Construyendo: <https://laboonprojectlite.pages.dev/>
+- 🚀 Construyendo: <https://nowaitagent.com/>
  
-- 📚 Aprendiendo: **Especialización en Inteligencia Artificial y Big Data**
+- 🌐 Construyendo una empresa: **Nowaitagent**
  
 - 💬 Abierto a: colaborar, emprender proyectos, etc...
  
@@ -16,11 +16,8 @@ Desarrollo **aplicaciones web** y me interesan **la IA y todo lo que conlleva(si
  
 ## 🧰 Tecnologías que uso a diario
  
-Python · Django · Node.js · React · Docker · PostgreSQL
- 
-  
-
-  
+Python · C# · Django · Node.js · React · Docker · Blazor · MAUI · MySQL · PostgreSQL
+   
  
 ## 📬 Contacto
  
@@ -38,5 +35,5 @@ Python · Django · Node.js · React · Docker · PostgreSQL
  
   
  
-> _Última actualización: 04/11/2025_
+> _Última actualización: 12/05/2026_
  
